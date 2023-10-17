@@ -4,7 +4,7 @@
 
 - 🔥 I’m a technology student and passionate about technology and business solutions. 
 
-- 🔭 I am currently a student at the [IFBA - Federal Institute of Bahia](https://portal.ifba.edu.br/conquista) and I work as a computer teacher at [Neosystem](https://www.facebook.com/neosistemvca/)
+- 🔭 I am currently a student at the [IFBA - Instituto Federal da Bahia](https://portal.ifba.edu.br/conquista) and I work as a computer teacher at [Neosystem](https://www.facebook.com/neosistemvca/)
 
 - 💬 Learning in **JavaScript, HTML, CSS, SQL, Node.JS, React, Java, Spring, Pyhton, Php**
 
