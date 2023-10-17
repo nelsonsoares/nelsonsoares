@@ -31,8 +31,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonsoares&layout=compact&theme=holi" alt="Nelson Soares most languages"/>
-  <img width="475em" src="https://github-readme-stats.vercel.app/api?username=nelsonsoares&show_icons=true&theme=holi" alt="Nelson Soares stats"/>
+  <img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonsoares&layout=compact&theme=discord_old_blurple" alt="Nelson Soares most languages"/>
+  <img width="475em" src="https://github-readme-stats.vercel.app/api?username=nelsonsoares&show_icons=true&theme=discord_old_blurple" alt="Nelson Soares stats"/>
 </p>
 <br>
 
