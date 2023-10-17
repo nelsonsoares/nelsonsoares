@@ -26,9 +26,9 @@
  <img align="center" alt="Nelson-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
-<br>
+<br><br><br><br>
 ## ⚙️ &nbsp;GitHub Analytics
-<br>
+
 <p align="left">
   <img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonsoares&layout=compact&theme=holi" alt="Nelson Soares most languages"/>
   <img width="475em" src="https://github-readme-stats.vercel.app/api?username=nelsonsoares&show_icons=true&theme=holi" alt="Nelson Soares stats"/>
