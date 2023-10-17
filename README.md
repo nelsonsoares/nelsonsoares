@@ -10,9 +10,7 @@
 
 - ⚡ Fun fact **Oneye 😜**
 
-
 <br><br>
-
 
 ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
@@ -28,20 +26,6 @@
  <img align="center" alt="Nelson-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
-<!--
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-  ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
-  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-  ![PHP](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysqlql)&nbsp;
--->
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -51,13 +35,13 @@
   <img width="475em" src="https://github-readme-stats.vercel.app/api?username=nelsonsoares&show_icons=true&theme=holi" alt="Nelson Soares stats"/>
 </p>
 <br><br>
-##Contact
 
+## Contact
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/nelsonsoares1/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-nelsonsoares-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/nelsonnsf" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-nelsonsoares-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+    <a href="https://linkedin.com/in/nelsonsoares1/" target="_blank">
+     <img align="center" src="https://img.shields.io/badge/-nelsonsoares-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+   </a>
+   <a href="https://instagram.com/nelsonnsf" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-nelsonsoares-05122A?style=flat&logo=instagram" alt="instagram"/>
+  </a>
 </p>
