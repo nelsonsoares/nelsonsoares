@@ -47,8 +47,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonsoares&layout=compact&theme=holi" alt="Nelson Soares most languages"/>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=nelsonsoares&show_icons=true&theme=holi" alt="Nelson Soares stats"/>
+  <img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonsoares&layout=compact&theme=holi" alt="Nelson Soares most languages"/>
+  <img width="475em" src="https://github-readme-stats.vercel.app/api?username=nelsonsoares&show_icons=true&theme=holi" alt="Nelson Soares stats"/>
 </p>
 
 
@@ -64,17 +64,3 @@
  <img align="center" src="https://img.shields.io/badge/-nelsonsoares-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
-**nelsonsoares/nelsonsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
