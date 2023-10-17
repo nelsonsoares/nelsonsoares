@@ -1,4 +1,4 @@
-<img align="right" height="520em" src="https://raw.githubusercontent.com/gist/nelsonsoares/3dbef4d1c7f7bc867adebfa798a9d2f3/raw/2bdf78ca549867934df3d5211cb6ba182a48b541/githubcard.svg"/>
+<img align="right" height="510em" src="https://raw.githubusercontent.com/gist/nelsonsoares/3dbef4d1c7f7bc867adebfa798a9d2f3/raw/2bdf78ca549867934df3d5211cb6ba182a48b541/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Nelson Soares</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsonsoares&color=blue" alt="Profile views" /> </p>
 
