@@ -43,7 +43,7 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/nelsonsoares1" target="_blank">
+<a href="https://linkedin.com/in/nelsonsoares1/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-nelsonsoares-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/nelsonnsf" target="_blank">
