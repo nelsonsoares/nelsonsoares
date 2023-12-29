@@ -12,7 +12,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack and Languages in Study
 <div style="display: inline_block"><br>
  <img align="center" alt="Nelson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
  <img align="center" alt="Nelson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -28,7 +28,7 @@
 
 <br><br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics 
 
 <p align="left">
   <img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonsoares&layout=compact&theme=github_dark_dimmed" alt="Nelson Soares most languages"/>
