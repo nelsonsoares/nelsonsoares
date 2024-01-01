@@ -37,7 +37,7 @@
 <br>
 
 ## Contact
-<p align="left" style="background:yellow">
+<p align="left">
     <a href="https://linkedin.com/in/nelsonsoares1/" target="_blank">
      <img align="center" src="https://img.shields.io/badge/-nelsonsoares-05122A?style=flat&logo=linkedin" alt="linkedin"/>
    </a>
