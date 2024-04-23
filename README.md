@@ -4,9 +4,9 @@
 
 - 🔥 I’m a technology student and passionate about technology and business solutions. 
 
-- 🔭 I am currently a student at the [IFBA - Instituto Federal da Bahia](https://portal.ifba.edu.br/conquista) and I work as a computer teacher at [Neosystem](https://www.facebook.com/neosistemvca/)
+- 🔭 IT Technician by [IFBA - Instituto Federal da Bahia](https://portal.ifba.edu.br/conquista) and I work as a computer teacher at [Neosystem](https://www.facebook.com/neosistemvca/)
 
-- 💬 Learning in **HTML, CSS, JavaScript, Node.Js, React, Java, Spring, Pyhton, Php, SQL**
+- 💬 Learning in **HTML, CSS, JavaScript, Node.Js, Angular, Java, Spring, Pyhton, Php, SQL**
 
 - ⚡ Fun fact **Oneye 😜**
 
@@ -18,7 +18,6 @@
  <img align="center" alt="Nelson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
  <img align="center" alt="Nelson-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
  <img align="center" alt="Nelson-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
- <img align="center" alt="Nelson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Nelson-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg">
  <img align="center" alt="Nelson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
  <img align="center" alt="Nelson-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
@@ -46,3 +45,6 @@
    <img align="center" src="https://img.shields.io/badge/-nelsonsoares-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
 </p>
+<!-- 
+<img align="center" alt="Nelson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+-->
