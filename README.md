@@ -1,14 +1,14 @@
-<img align="right" height="530em" src="https://raw.githubusercontent.com/gist/nelsonsoares/3dbef4d1c7f7bc867adebfa798a9d2f3/raw/2bdf78ca549867934df3d5211cb6ba182a48b541/githubcard.svg"/>
+<!-- <img align="right" height="530em" src="https://raw.githubusercontent.com/gist/nelsonsoares/3dbef4d1c7f7bc867adebfa798a9d2f3/raw/2bdf78ca549867934df3d5211cb6ba182a48b541/githubcard.svg"/> -->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Nelson Soares</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsonsoares&color=blue" alt="Profile views" /> </p>
 
-- 🔥 I’m a technology student and passionate about technology and business solutions. 
+- 🔥 I am passionate about technology and business solutions. 
 
-- 🔭 IT Technician by [IFBA - Instituto Federal da Bahia](https://portal.ifba.edu.br/conquista) and I work as a computer teacher at [Neosystem](https://www.facebook.com/neosistemvca/)
+- 🔭 IT Technician by [IFBA - Instituto Federal da Bahia](https://portal.ifba.edu.br/conquista)
 
-- 💬 Learning in **HTML, CSS, JavaScript, Node.Js, Angular, Java, Spring, Pyhton, Php, SQL**
+- 💬 Improving knowledge in **HTML, CSS, JavaScript, Node.Js, Angular, Java, Spring, Php, SQL**
 
-- ⚡ Fun fact **Oneye 😜**
+<!-- - ⚡ Fun fact **Oneye 😜** -->
 
 <br><br>
 
@@ -21,7 +21,7 @@
   <img align="center" alt="Nelson-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg">
  <img align="center" alt="Nelson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
  <img align="center" alt="Nelson-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
- <img align="center" alt="Nelson-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<!-- <img align="center" alt="Nelson-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> -->
  <img align="center" alt="Nelson-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
  <img align="center" alt="Nelson-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
